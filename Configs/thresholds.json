@@ -1,0 +1,96 @@
+{
+    "KRK": {
+        "single": {
+            "threshold1": 0.0005025125628140704,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.5829145728643217,
+            "threshold2": 0.46633165829145734
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    },
+    "KQKR": {
+        "single": {
+            "threshold1": 0.0020100502512562816,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.16884422110552766,
+            "threshold2": 0.3216080402010051
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    },
+    "KPKR": {
+        "single": {
+            "threshold1": 0.0012562814070351761,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.8,
+            "threshold2": 0.0
+        }
+    },
+    "KRKP": {
+        "single": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.31758793969849247,
+            "threshold2": 0.36180904522613067
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    },
+    "KPK": {
+        "single": {
+            "threshold1": 0.004271356783919598,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.4984924623115578,
+            "threshold2": 0.43015075376884426
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    },
+    "KPKP": {
+        "single": {
+            "threshold1": 0.00628140703517588,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.48643216080402013,
+            "threshold2": 0.49849246231155786
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    },
+    "KNKP": {
+        "single": {
+            "threshold1": 0.012311557788944725,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.3939698492462312,
+            "threshold2": 0.5025125628140704
+        },
+        "classification": {
+            "threshold1": 0.0,
+            "threshold2": 0.0
+        }
+    }
+}

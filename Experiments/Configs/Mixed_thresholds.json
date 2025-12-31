@@ -1,0 +1,12 @@
+{
+    "Mixed": {
+        "single": {
+            "threshold1": 0.019095477386934675,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.2693467336683417,
+            "threshold2": 0.1969849246231156
+        }
+    }
+}

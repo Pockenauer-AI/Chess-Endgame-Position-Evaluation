@@ -1,0 +1,12 @@
+{
+    "KPK": {
+        "single": {
+            "threshold1": 0.0020100502512562816,
+            "threshold2": 0.0
+        },
+        "regression": {
+            "threshold1": -0.5145728643216081,
+            "threshold2": 0.5788944723618091
+        }
+    }
+}
