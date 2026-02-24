@@ -47,13 +47,6 @@ All models share a CNN-based encoder operating on multi-channel 8×8 board tenso
 
 ---
 
-## Tech Stack
-
-- Python  
-- PyTorch  
-- NumPy  
-
----
 
 ## Thesis
 
